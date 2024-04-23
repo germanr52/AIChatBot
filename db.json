@@ -1,0 +1,109 @@
+[
+  {
+    "ref": "c02a9ba9-8873-4e4b-ad87-177609bf99d2",
+    "keyword": "71bb693b1a603b9681a353c9b9ffdad7",
+    "answer": "Hola",
+    "options": {},
+    "from": "584147581196",
+    "refSerialize": "c22e4066d61d81721def9b25d8a397e8"
+  },
+  {
+    "ref": "ans_6467c073-83c3-498d-a96f-b0c970b9828a",
+    "keyword": "key_1a38495f-91d4-4a3f-bee6-6f3cece97493",
+    "answer": "Bienvenido a AI ChatBot",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "129c4be4f5e3143330d9ba47d2229eeb",
+    "from": "584147581196"
+  },
+  {
+    "ref": "aaa0c256-3cc0-4b0a-98b7-d3ba19a89d10",
+    "keyword": "129c4be4f5e3143330d9ba47d2229eeb",
+    "answer": "Jörg",
+    "options": {},
+    "from": "584147581196",
+    "refSerialize": "296c096b48391ecff83100a6e7ec2b29"
+  },
+  {
+    "ref": "ans_4f98def3-f7ec-47c9-9ad1-68a90f4470e5",
+    "keyword": "key_9fa87048-f4ca-478e-92cd-8db57d989205",
+    "answer": "Este es el flujo welcome",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 100,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b298eddc4c3a5c8a86847d2a89bbe08f",
+    "from": "584147581196"
+  },
+  {
+    "ref": "e3bb81c6-db50-418b-8111-afd5443eb990",
+    "keyword": null,
+    "answer": "Mi muy querid@ Germán R. Castaños G.(584147581196) no pude entender tu mensaje Jörg",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "584147581196",
+    "refSerialize": "b9434b93447addab4ee85a7ed187750e"
+  },
+  {
+    "ref": "841dd7fa-4fc9-4ea6-a687-f1a7efeb6b0a",
+    "keyword": "b298eddc4c3a5c8a86847d2a89bbe08f",
+    "answer": "Culo",
+    "options": {},
+    "from": "584147581196",
+    "refSerialize": "386a8fe81c8baa6d97649daf82d43658"
+  },
+  {
+    "ref": "ans_4f98def3-f7ec-47c9-9ad1-68a90f4470e5",
+    "keyword": "key_9fa87048-f4ca-478e-92cd-8db57d989205",
+    "answer": "Este es el flujo welcome",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 100,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b298eddc4c3a5c8a86847d2a89bbe08f",
+    "from": "584147581196"
+  },
+  {
+    "ref": "0ea3bcf3-76e0-4eb0-9b82-f36aab945e48",
+    "keyword": null,
+    "answer": "Mi muy querid@ Germán R. Castaños G.(584147581196) no pude entender tu mensaje Culo",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "584147581196",
+    "refSerialize": "03042b688cf277ae8a54de5cc70705ad"
+  }
+]
