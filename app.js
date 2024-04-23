@@ -34,7 +34,7 @@ const flowWelcome = addKeyword(EVENTS.WELCOME).addAnswer(
         ctx.pushName +
         "(" +
         ctx.from +
-        ") no pude entender tu mensaje " +
+        ") no pude entender tu mensaje: " +
         ctx.body
     );
   }
